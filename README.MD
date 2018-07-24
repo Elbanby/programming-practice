@@ -1,5 +1,5 @@
 # Coding practicing.
-------------------
+
 ## About
 This repo will include my solutions to various programming questions.
 Its not specific to any single programming language. I will be using either:
